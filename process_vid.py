@@ -1,4 +1,3 @@
-#Convert Videos to Mp3
 import os
 import subprocess
 
@@ -8,9 +7,16 @@ output_folder = "Audios"
 files = [f for f in os.listdir(input_folder) if f.endswith(".mp4") and not f.startswith(".")]
 
 for file in files:
-    tutorial_number = file.split("_")[0]
-    file_name = file.split("_")[1]
+    name_without_ext = file.rsplit(".", 1)[0]
+    tutorial_number, file_name = name_without_ext.split("_", 1)
 
     input_path = os.path.join(input_folder, file)
     output_path = os.path.join(output_folder, f"{tutorial_number}_{file_name}.mp3")
-    subprocess.run(["ffmpeg", "-i", input_path, output_path])
+
+    subprocess.run([
+        "ffmpeg",
+        "-i", input_path,
+        "-vn",
+        "-b:a", "192k",
+        output_path
+    ])
