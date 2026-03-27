@@ -1,1 +1,418 @@
-{"chunks": [{"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 0.0, "end": 3.0, "text": " so guys I have brought a flask cheat sheet for you"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 3.0, "end": 5.0, "text": " many of you do programming in flask"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 5.0, "end": 7.0, "text": " I have already uploaded python cheat sheet"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 7.0, "end": 10.0, "text": " you can access this playlist"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 10.0, "end": 13.0, "text": " and I have given the links of all the videos in the description"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 13.0, "end": 15.0, "text": " of respective cheat sheets"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 15.0, "end": 17.0, "text": " so you can download from there"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 17.0, "end": 18.0, "text": " now after python cheat sheet"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 18.0, "end": 21.0, "text": " if anyone is doing flask specific stuff"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 21.0, "end": 23.0, "text": " then there are many things that he would need in flask"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 23.0, "end": 24.0, "text": " for example"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 24.0, "end": 26.0, "text": " the most important thing that is needed"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 26.0, "end": 28.0, "text": " when I personally use flask"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 28.0, "end": 29.0, "text": " is this thing"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 29.0, "end": 30.0, "text": " by copying"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 30.0, "end": 33.0, "text": " you can start your project"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 33.0, "end": 35.0, "text": " now what happens is"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 35.0, "end": 37.0, "text": " many people sit to type this"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 37.0, "end": 39.0, "text": " but they are in phone"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 39.0, "end": 40.0, "text": " so they face problem"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 40.0, "end": 41.0, "text": " so if you are doing in phone"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 41.0, "end": 42.0, "text": " or online id"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 42.0, "end": 44.0, "text": " so you can copy and paste from here"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 44.0, "end": 47.0, "text": " so this cheat sheet can be very helpful for you"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 47.0, "end": 49.0, "text": " directly click here and copy"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 49.0, "end": 51.0, "text": " and oops I have clicked"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 51.0, "end": 53.0, "text": " you can paste by right clicking"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 53.0, "end": 56.0, "text": " and here your code will be pasted as is"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 56.0, "end": 58.0, "text": " now if you want to print this"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 58.0, "end": 61.0, "text": " you can print this cheat sheet by pressing ctrl p"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 61.0, "end": 63.0, "text": " if you want to download in pdf"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 63.0, "end": 65.0, "text": " then I will put a button below"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 65.0, "end": 67.0, "text": " I have put a button below all the old cheat sheets"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 67.0, "end": 69.0, "text": " in which you will get"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 69.0, "end": 72.0, "text": " a download button"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 72.0, "end": 74.0, "text": " in which I have written download this cheat sheet"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 74.0, "end": 76.0, "text": " so if you click here"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 76.0, "end": 78.0, "text": " then your cheat sheet will be downloaded"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 78.0, "end": 80.0, "text": " you can click here and save it"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 80.0, "end": 83.0, "text": " if you get any small typo in this cheat sheet"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 83.0, "end": 85.0, "text": " then do comment below"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 85.0, "end": 86.0, "text": " many people have commented"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 86.0, "end": 88.0, "text": " and improved the old cheat sheets"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 88.0, "end": 89.0, "text": " or if you have any such thing"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 89.0, "end": 90.0, "text": " that you think that"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 90.0, "end": 91.0, "text": " I should add this thing in the cheat sheet"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 91.0, "end": 93.0, "text": " so it will be beneficial for all of us"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 93.0, "end": 94.0, "text": " as a community"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 94.0, "end": 96.0, "text": " we can improve this cheat sheet more"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 96.0, "end": 98.0, "text": " I hope you guys"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 98.0, "end": 100.0, "text": " liked the creation of this cheat sheet"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 100.0, "end": 102.0, "text": " I will bring jayango's cheat sheet also"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 102.0, "end": 103.0, "text": " there are many more things"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 103.0, "end": 104.0, "text": " like git linux etc"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 104.0, "end": 106.0, "text": " I will bring their cheat sheet also very soon"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 106.0, "end": 108.0, "text": " all the links will be in the description"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 108.0, "end": 109.0, "text": " that's all for now in this video guys"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 109.0, "end": 111.0, "text": " thank you so much guys for watching this video"}, {"number": "09", "title": "Flask Cheatsheet for Beginners ", "start": 111.0, "end": 114.0, "text": " and I will see you next time"}], "text": " so guys I have brought a flask cheat sheet for you many of you do programming in flask I have already uploaded python cheat sheet you can access this playlist and I have given the links of all the videos in the description of respective cheat sheets so you can download from there now after python cheat sheet if anyone is doing flask specific stuff then there are many things that he would need in flask for example the most important thing that is needed when I personally use flask is this thing by copying you can start your project now what happens is many people sit to type this but they are in phone so they face problem so if you are doing in phone or online id so you can copy and paste from here so this cheat sheet can be very helpful for you directly click here and copy and oops I have clicked you can paste by right clicking and here your code will be pasted as is now if you want to print this you can print this cheat sheet by pressing ctrl p if you want to download in pdf then I will put a button below I have put a button below all the old cheat sheets in which you will get a download button in which I have written download this cheat sheet so if you click here then your cheat sheet will be downloaded you can click here and save it if you get any small typo in this cheat sheet then do comment below many people have commented and improved the old cheat sheets or if you have any such thing that you think that I should add this thing in the cheat sheet so it will be beneficial for all of us as a community we can improve this cheat sheet more I hope you guys liked the creation of this cheat sheet I will bring jayango's cheat sheet also there are many more things like git linux etc I will bring their cheat sheet also very soon all the links will be in the description that's all for now in this video guys thank you so much guys for watching this video and I will see you next time"}
+{
+    "chunks": [
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 0.0,
+            "end": 3.0,
+            "text": " so guys I have brought a flask cheat sheet for you"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 3.0,
+            "end": 5.0,
+            "text": " many of you do programming in flask"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 5.0,
+            "end": 7.0,
+            "text": " I have already uploaded python cheat sheet"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 7.0,
+            "end": 10.0,
+            "text": " you can access this playlist"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 10.0,
+            "end": 13.0,
+            "text": " and I have given the links of all the videos in the description"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 13.0,
+            "end": 15.0,
+            "text": " of respective cheat sheets"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 15.0,
+            "end": 17.0,
+            "text": " so you can download from there"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 17.0,
+            "end": 18.0,
+            "text": " now after python cheat sheet"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 18.0,
+            "end": 21.0,
+            "text": " if anyone is doing flask specific stuff"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 21.0,
+            "end": 23.0,
+            "text": " then there are many things that he would need in flask"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 23.0,
+            "end": 24.0,
+            "text": " for example"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 24.0,
+            "end": 26.0,
+            "text": " the most important thing that is needed"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 26.0,
+            "end": 28.0,
+            "text": " when I personally use flask"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 28.0,
+            "end": 29.0,
+            "text": " is this thing"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 29.0,
+            "end": 30.0,
+            "text": " by copying"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 30.0,
+            "end": 33.0,
+            "text": " you can start your project"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 33.0,
+            "end": 35.0,
+            "text": " now what happens is"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 35.0,
+            "end": 37.0,
+            "text": " many people sit to type this"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 37.0,
+            "end": 39.0,
+            "text": " but they are in phone"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 39.0,
+            "end": 40.0,
+            "text": " so they face problem"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 40.0,
+            "end": 41.0,
+            "text": " so if you are doing in phone"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 41.0,
+            "end": 42.0,
+            "text": " or online id"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 42.0,
+            "end": 44.0,
+            "text": " so you can copy and paste from here"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 44.0,
+            "end": 47.0,
+            "text": " so this cheat sheet can be very helpful for you"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 47.0,
+            "end": 49.0,
+            "text": " directly click here and copy"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 49.0,
+            "end": 51.0,
+            "text": " and oops I have clicked"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 51.0,
+            "end": 53.0,
+            "text": " you can paste by right clicking"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 53.0,
+            "end": 56.0,
+            "text": " and here your code will be pasted as is"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 56.0,
+            "end": 58.0,
+            "text": " now if you want to print this"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 58.0,
+            "end": 61.0,
+            "text": " you can print this cheat sheet by pressing ctrl p"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 61.0,
+            "end": 63.0,
+            "text": " if you want to download in pdf"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 63.0,
+            "end": 65.0,
+            "text": " then I will put a button below"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 65.0,
+            "end": 67.0,
+            "text": " I have put a button below all the old cheat sheets"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 67.0,
+            "end": 69.0,
+            "text": " in which you will get"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 69.0,
+            "end": 72.0,
+            "text": " a download button"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 72.0,
+            "end": 74.0,
+            "text": " in which I have written download this cheat sheet"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 74.0,
+            "end": 76.0,
+            "text": " so if you click here"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 76.0,
+            "end": 78.0,
+            "text": " then your cheat sheet will be downloaded"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 78.0,
+            "end": 80.0,
+            "text": " you can click here and save it"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 80.0,
+            "end": 83.0,
+            "text": " if you get any small typo in this cheat sheet"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 83.0,
+            "end": 85.0,
+            "text": " then do comment below"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 85.0,
+            "end": 86.0,
+            "text": " many people have commented"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 86.0,
+            "end": 88.0,
+            "text": " and improved the old cheat sheets"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 88.0,
+            "end": 89.0,
+            "text": " or if you have any such thing"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 89.0,
+            "end": 90.0,
+            "text": " that you think that"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 90.0,
+            "end": 91.0,
+            "text": " I should add this thing in the cheat sheet"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 91.0,
+            "end": 93.0,
+            "text": " so it will be beneficial for all of us"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 93.0,
+            "end": 94.0,
+            "text": " as a community"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 94.0,
+            "end": 96.0,
+            "text": " we can improve this cheat sheet more"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 96.0,
+            "end": 98.0,
+            "text": " I hope you guys"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 98.0,
+            "end": 100.0,
+            "text": " liked the creation of this cheat sheet"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 100.0,
+            "end": 102.0,
+            "text": " I will bring jayango's cheat sheet also"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 102.0,
+            "end": 103.0,
+            "text": " there are many more things"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 103.0,
+            "end": 104.0,
+            "text": " like git linux etc"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 104.0,
+            "end": 106.0,
+            "text": " I will bring their cheat sheet also very soon"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 106.0,
+            "end": 108.0,
+            "text": " all the links will be in the description"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 108.0,
+            "end": 109.0,
+            "text": " that's all for now in this video guys"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 109.0,
+            "end": 111.0,
+            "text": " thank you so much guys for watching this video"
+        },
+        {
+            "number": "09",
+            "title": "Flask Cheatsheet for Beginners ",
+            "start": 111.0,
+            "end": 114.0,
+            "text": " and I will see you next time"
+        }
+    ],
+    "text": " so guys I have brought a flask cheat sheet for you many of you do programming in flask I have already uploaded python cheat sheet you can access this playlist and I have given the links of all the videos in the description of respective cheat sheets so you can download from there now after python cheat sheet if anyone is doing flask specific stuff then there are many things that he would need in flask for example the most important thing that is needed when I personally use flask is this thing by copying you can start your project now what happens is many people sit to type this but they are in phone so they face problem so if you are doing in phone or online id so you can copy and paste from here so this cheat sheet can be very helpful for you directly click here and copy and oops I have clicked you can paste by right clicking and here your code will be pasted as is now if you want to print this you can print this cheat sheet by pressing ctrl p if you want to download in pdf then I will put a button below I have put a button below all the old cheat sheets in which you will get a download button in which I have written download this cheat sheet so if you click here then your cheat sheet will be downloaded you can click here and save it if you get any small typo in this cheat sheet then do comment below many people have commented and improved the old cheat sheets or if you have any such thing that you think that I should add this thing in the cheat sheet so it will be beneficial for all of us as a community we can improve this cheat sheet more I hope you guys liked the creation of this cheat sheet I will bring jayango's cheat sheet also there are many more things like git linux etc I will bring their cheat sheet also very soon all the links will be in the description that's all for now in this video guys thank you so much guys for watching this video and I will see you next time"
+}

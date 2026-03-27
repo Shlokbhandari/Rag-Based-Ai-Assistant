@@ -1,1 +1,537 @@
-{"chunks": [{"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 0.0, "end": 3.3000000000000003, "text": " So guys, I shared the cheat sheet of HTML and CSS with you"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 3.3000000000000003, "end": 7.0, "text": " In that we went through some basic commands of HTML and CSS"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 7.0, "end": 10.0, "text": " Today we will see this cheat sheet of JavaScript"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 10.0, "end": 11.0, "text": " What is in it?"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 11.0, "end": 14.0, "text": " Basically, all the syntax of JavaScript is written here"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 14.0, "end": 15.5, "text": " Now there are many syntaxes here"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 15.5, "end": 18.0, "text": " Which may not remind you"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 18.0, "end": 20.0, "text": " Emmet or any kind of editor"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 20.0, "end": 23.5, "text": " For example, if you want to get the overall idea of JavaScript in general"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 23.5, "end": 25.5, "text": " So this cheat sheet can give you very well"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 25.5, "end": 28.5, "text": " And the most important thing is that you can copy it directly from here"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 29.0, "end": 32.0, "text": " And after copying, you can paste it here"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 32.0, "end": 34.5, "text": " And here I have added almost everything"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 34.5, "end": 37.5, "text": " From basic functions to complex methods"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 37.5, "end": 41.0, "text": " Of any object, date object and string methods"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 41.0, "end": 43.5, "text": " I have added all these things in it"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 43.5, "end": 46.0, "text": " You just have to copy and use it"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 46.0, "end": 48.0, "text": " Now if you code in a phone"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 48.0, "end": 50.0, "text": " Then it will be very useful for you"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 50.0, "end": 52.0, "text": " Because you can open the browser directly in the phone"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 52.0, "end": 55.0, "text": " You can open it in a tab and copy and paste it"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 55.0, "end": 58.0, "text": " And you will get a very good overview of JavaScript"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 58.5, "end": 61.5, "text": " There are many things here that Emmet will not remind you"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 61.5, "end": 63.5, "text": " For example, many methods"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 63.5, "end": 65.5, "text": " Many methods of dates"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 65.5, "end": 68.5, "text": " How to use mouse events"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 68.5, "end": 70.5, "text": " You get the whole syntax here"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 70.5, "end": 73.5, "text": " You can rename the element you want to put in"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 73.5, "end": 78.5, "text": " So here you can use this thing very well"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 78.5, "end": 81.5, "text": " Start incorporating it and I will keep updating it"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 81.5, "end": 82.5, "text": " If you have to give feedback"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 82.5, "end": 84.5, "text": " If you think that something is missing"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 84.5, "end": 86.5, "text": " Or you think that something can be added"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 87.0, "end": 89.0, "text": " Can be added"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 89.0, "end": 91.0, "text": " So tell me below, I will add it"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 91.0, "end": 93.0, "text": " And I will update this cheat sheet"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 93.0, "end": 95.0, "text": " And I will keep updating it"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 95.0, "end": 97.0, "text": " As feedback will come"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 97.0, "end": 99.0, "text": " And Akshaj26's comment came"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 99.0, "end": 101.0, "text": " So this shoutout is necessary"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 101.0, "end": 104.0, "text": " Because I have not even uploaded it for a minute"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 104.0, "end": 106.0, "text": " So shoutout is necessary"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 106.0, "end": 108.0, "text": " So all the methods of array"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 108.0, "end": 111.0, "text": " I have taken the review of almost 2-3 people"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 111.0, "end": 113.0, "text": " And taking the review of 2-3 people"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 113.0, "end": 115.0, "text": " Who do good coding in JavaScript"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 115.5, "end": 117.5, "text": " Try to make it the best cheat sheet"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 117.5, "end": 120.5, "text": " And in the future I will keep taking people's feedback"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 120.5, "end": 122.5, "text": " I will keep taking your feedback"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 122.5, "end": 123.5, "text": " And if someone will review it"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 123.5, "end": 125.5, "text": " And tell me that these things can be changed"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 125.5, "end": 127.5, "text": " These things can be added"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 127.5, "end": 129.5, "text": " So all those things will be added in it"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 129.5, "end": 131.5, "text": " And this JavaScript cheat sheet"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 131.5, "end": 133.5, "text": " We will all use it together"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 133.5, "end": 134.5, "text": " Including myself"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 134.5, "end": 136.5, "text": " Now if you want to print it and stick it on the wall"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 136.5, "end": 138.5, "text": " You can print it by pressing ctrl p"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 138.5, "end": 140.5, "text": " And take it easy and stick it on the wall"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 140.5, "end": 142.5, "text": " So there is no tension"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 143.0, "end": 145.0, "text": " And along with that you guys must give me feedback"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 145.0, "end": 147.0, "text": " What can be improved in this"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 147.0, "end": 150.0, "text": " And the rest of the languages cheat sheets"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 150.0, "end": 151.0, "text": " They are on the way"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 151.0, "end": 153.0, "text": " Python and C, C++"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 153.0, "end": 155.0, "text": " All these cheat sheets"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 155.0, "end": 157.0, "text": " I want whatever cheat sheet I make"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 157.0, "end": 159.0, "text": " It should be perfect, it should be useful"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 159.0, "end": 161.0, "text": " All the things are there in it"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 161.0, "end": 162.0, "text": " So that you can rely on it"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 162.0, "end": 164.0, "text": " That's why I will take some time to make them"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 164.0, "end": 166.0, "text": " I will definitely bring it for you"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 166.0, "end": 168.0, "text": " That's all for now in this video guys"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 168.0, "end": 170.0, "text": " Thank you so much guys for watching this video"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 170.0, "end": 172.0, "text": " And I will see you next time"}, {"number": "03", "title": "JavaScript CheatSheet for Beginners ", "start": 172.5, "end": 175.0, "text": " Thank you"}], "text": " So guys, I shared the cheat sheet of HTML and CSS with you In that we went through some basic commands of HTML and CSS Today we will see this cheat sheet of JavaScript What is in it? Basically, all the syntax of JavaScript is written here Now there are many syntaxes here Which may not remind you Emmet or any kind of editor For example, if you want to get the overall idea of JavaScript in general So this cheat sheet can give you very well And the most important thing is that you can copy it directly from here And after copying, you can paste it here And here I have added almost everything From basic functions to complex methods Of any object, date object and string methods I have added all these things in it You just have to copy and use it Now if you code in a phone Then it will be very useful for you Because you can open the browser directly in the phone You can open it in a tab and copy and paste it And you will get a very good overview of JavaScript There are many things here that Emmet will not remind you For example, many methods Many methods of dates How to use mouse events You get the whole syntax here You can rename the element you want to put in So here you can use this thing very well Start incorporating it and I will keep updating it If you have to give feedback If you think that something is missing Or you think that something can be added Can be added So tell me below, I will add it And I will update this cheat sheet And I will keep updating it As feedback will come And Akshaj26's comment came So this shoutout is necessary Because I have not even uploaded it for a minute So shoutout is necessary So all the methods of array I have taken the review of almost 2-3 people And taking the review of 2-3 people Who do good coding in JavaScript Try to make it the best cheat sheet And in the future I will keep taking people's feedback I will keep taking your feedback And if someone will review it And tell me that these things can be changed These things can be added So all those things will be added in it And this JavaScript cheat sheet We will all use it together Including myself Now if you want to print it and stick it on the wall You can print it by pressing ctrl p And take it easy and stick it on the wall So there is no tension And along with that you guys must give me feedback What can be improved in this And the rest of the languages cheat sheets They are on the way Python and C, C++ All these cheat sheets I want whatever cheat sheet I make It should be perfect, it should be useful All the things are there in it So that you can rely on it That's why I will take some time to make them I will definitely bring it for you That's all for now in this video guys Thank you so much guys for watching this video And I will see you next time Thank you"}
+{
+    "chunks": [
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 0.0,
+            "end": 3.3000000000000003,
+            "text": " So guys, I shared the cheat sheet of HTML and CSS with you"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 3.3000000000000003,
+            "end": 7.0,
+            "text": " In that we went through some basic commands of HTML and CSS"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 7.0,
+            "end": 10.0,
+            "text": " Today we will see this cheat sheet of JavaScript"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 10.0,
+            "end": 11.0,
+            "text": " What is in it?"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 11.0,
+            "end": 14.0,
+            "text": " Basically, all the syntax of JavaScript is written here"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 14.0,
+            "end": 15.5,
+            "text": " Now there are many syntaxes here"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 15.5,
+            "end": 18.0,
+            "text": " Which may not remind you"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 18.0,
+            "end": 20.0,
+            "text": " Emmet or any kind of editor"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 20.0,
+            "end": 23.5,
+            "text": " For example, if you want to get the overall idea of JavaScript in general"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 23.5,
+            "end": 25.5,
+            "text": " So this cheat sheet can give you very well"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 25.5,
+            "end": 28.5,
+            "text": " And the most important thing is that you can copy it directly from here"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 29.0,
+            "end": 32.0,
+            "text": " And after copying, you can paste it here"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 32.0,
+            "end": 34.5,
+            "text": " And here I have added almost everything"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 34.5,
+            "end": 37.5,
+            "text": " From basic functions to complex methods"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 37.5,
+            "end": 41.0,
+            "text": " Of any object, date object and string methods"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 41.0,
+            "end": 43.5,
+            "text": " I have added all these things in it"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 43.5,
+            "end": 46.0,
+            "text": " You just have to copy and use it"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 46.0,
+            "end": 48.0,
+            "text": " Now if you code in a phone"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 48.0,
+            "end": 50.0,
+            "text": " Then it will be very useful for you"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 50.0,
+            "end": 52.0,
+            "text": " Because you can open the browser directly in the phone"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 52.0,
+            "end": 55.0,
+            "text": " You can open it in a tab and copy and paste it"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 55.0,
+            "end": 58.0,
+            "text": " And you will get a very good overview of JavaScript"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 58.5,
+            "end": 61.5,
+            "text": " There are many things here that Emmet will not remind you"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 61.5,
+            "end": 63.5,
+            "text": " For example, many methods"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 63.5,
+            "end": 65.5,
+            "text": " Many methods of dates"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 65.5,
+            "end": 68.5,
+            "text": " How to use mouse events"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 68.5,
+            "end": 70.5,
+            "text": " You get the whole syntax here"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 70.5,
+            "end": 73.5,
+            "text": " You can rename the element you want to put in"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 73.5,
+            "end": 78.5,
+            "text": " So here you can use this thing very well"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 78.5,
+            "end": 81.5,
+            "text": " Start incorporating it and I will keep updating it"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 81.5,
+            "end": 82.5,
+            "text": " If you have to give feedback"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 82.5,
+            "end": 84.5,
+            "text": " If you think that something is missing"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 84.5,
+            "end": 86.5,
+            "text": " Or you think that something can be added"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 87.0,
+            "end": 89.0,
+            "text": " Can be added"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 89.0,
+            "end": 91.0,
+            "text": " So tell me below, I will add it"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 91.0,
+            "end": 93.0,
+            "text": " And I will update this cheat sheet"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 93.0,
+            "end": 95.0,
+            "text": " And I will keep updating it"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 95.0,
+            "end": 97.0,
+            "text": " As feedback will come"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 97.0,
+            "end": 99.0,
+            "text": " And Akshaj26's comment came"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 99.0,
+            "end": 101.0,
+            "text": " So this shoutout is necessary"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 101.0,
+            "end": 104.0,
+            "text": " Because I have not even uploaded it for a minute"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 104.0,
+            "end": 106.0,
+            "text": " So shoutout is necessary"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 106.0,
+            "end": 108.0,
+            "text": " So all the methods of array"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 108.0,
+            "end": 111.0,
+            "text": " I have taken the review of almost 2-3 people"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 111.0,
+            "end": 113.0,
+            "text": " And taking the review of 2-3 people"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 113.0,
+            "end": 115.0,
+            "text": " Who do good coding in JavaScript"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 115.5,
+            "end": 117.5,
+            "text": " Try to make it the best cheat sheet"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 117.5,
+            "end": 120.5,
+            "text": " And in the future I will keep taking people's feedback"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 120.5,
+            "end": 122.5,
+            "text": " I will keep taking your feedback"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 122.5,
+            "end": 123.5,
+            "text": " And if someone will review it"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 123.5,
+            "end": 125.5,
+            "text": " And tell me that these things can be changed"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 125.5,
+            "end": 127.5,
+            "text": " These things can be added"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 127.5,
+            "end": 129.5,
+            "text": " So all those things will be added in it"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 129.5,
+            "end": 131.5,
+            "text": " And this JavaScript cheat sheet"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 131.5,
+            "end": 133.5,
+            "text": " We will all use it together"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 133.5,
+            "end": 134.5,
+            "text": " Including myself"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 134.5,
+            "end": 136.5,
+            "text": " Now if you want to print it and stick it on the wall"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 136.5,
+            "end": 138.5,
+            "text": " You can print it by pressing ctrl p"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 138.5,
+            "end": 140.5,
+            "text": " And take it easy and stick it on the wall"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 140.5,
+            "end": 142.5,
+            "text": " So there is no tension"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 143.0,
+            "end": 145.0,
+            "text": " And along with that you guys must give me feedback"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 145.0,
+            "end": 147.0,
+            "text": " What can be improved in this"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 147.0,
+            "end": 150.0,
+            "text": " And the rest of the languages cheat sheets"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 150.0,
+            "end": 151.0,
+            "text": " They are on the way"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 151.0,
+            "end": 153.0,
+            "text": " Python and C, C++"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 153.0,
+            "end": 155.0,
+            "text": " All these cheat sheets"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 155.0,
+            "end": 157.0,
+            "text": " I want whatever cheat sheet I make"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 157.0,
+            "end": 159.0,
+            "text": " It should be perfect, it should be useful"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 159.0,
+            "end": 161.0,
+            "text": " All the things are there in it"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 161.0,
+            "end": 162.0,
+            "text": " So that you can rely on it"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 162.0,
+            "end": 164.0,
+            "text": " That's why I will take some time to make them"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 164.0,
+            "end": 166.0,
+            "text": " I will definitely bring it for you"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 166.0,
+            "end": 168.0,
+            "text": " That's all for now in this video guys"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 168.0,
+            "end": 170.0,
+            "text": " Thank you so much guys for watching this video"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 170.0,
+            "end": 172.0,
+            "text": " And I will see you next time"
+        },
+        {
+            "number": "03",
+            "title": "JavaScript CheatSheet for Beginners ",
+            "start": 172.5,
+            "end": 175.0,
+            "text": " Thank you"
+        }
+    ],
+    "text": " So guys, I shared the cheat sheet of HTML and CSS with you In that we went through some basic commands of HTML and CSS Today we will see this cheat sheet of JavaScript What is in it? Basically, all the syntax of JavaScript is written here Now there are many syntaxes here Which may not remind you Emmet or any kind of editor For example, if you want to get the overall idea of JavaScript in general So this cheat sheet can give you very well And the most important thing is that you can copy it directly from here And after copying, you can paste it here And here I have added almost everything From basic functions to complex methods Of any object, date object and string methods I have added all these things in it You just have to copy and use it Now if you code in a phone Then it will be very useful for you Because you can open the browser directly in the phone You can open it in a tab and copy and paste it And you will get a very good overview of JavaScript There are many things here that Emmet will not remind you For example, many methods Many methods of dates How to use mouse events You get the whole syntax here You can rename the element you want to put in So here you can use this thing very well Start incorporating it and I will keep updating it If you have to give feedback If you think that something is missing Or you think that something can be added Can be added So tell me below, I will add it And I will update this cheat sheet And I will keep updating it As feedback will come And Akshaj26's comment came So this shoutout is necessary Because I have not even uploaded it for a minute So shoutout is necessary So all the methods of array I have taken the review of almost 2-3 people And taking the review of 2-3 people Who do good coding in JavaScript Try to make it the best cheat sheet And in the future I will keep taking people's feedback I will keep taking your feedback And if someone will review it And tell me that these things can be changed These things can be added So all those things will be added in it And this JavaScript cheat sheet We will all use it together Including myself Now if you want to print it and stick it on the wall You can print it by pressing ctrl p And take it easy and stick it on the wall So there is no tension And along with that you guys must give me feedback What can be improved in this And the rest of the languages cheat sheets They are on the way Python and C, C++ All these cheat sheets I want whatever cheat sheet I make It should be perfect, it should be useful All the things are there in it So that you can rely on it That's why I will take some time to make them I will definitely bring it for you That's all for now in this video guys Thank you so much guys for watching this video And I will see you next time Thank you"
+}

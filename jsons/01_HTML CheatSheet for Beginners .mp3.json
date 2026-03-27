@@ -1,1 +1,726 @@
-{"chunks": [{"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 0.0, "end": 2.8000000000000003, "text": " I am using this HTML cheat sheet for a long time"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 2.8000000000000003, "end": 4.8, "text": " and I am giving you this cheat sheet because"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 4.8, "end": 6.8, "text": " because I genuinely think"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 6.8, "end": 9.3, "text": " this cheat sheet can be very useful for you"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 9.3, "end": 13.1, "text": " what is there in this cheat sheet and why is it different from Emmet"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 13.1, "end": 14.8, "text": " I will tell you everything quickly"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 14.8, "end": 16.5, "text": " so see this cheat sheet"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 16.5, "end": 18.5, "text": " I am using it for a long time"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 18.5, "end": 20.8, "text": " most of the work comes on today's date"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 20.8, "end": 23.1, "text": " so it comes for those people who are coding on the phone"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 23.1, "end": 25.6, "text": " by the way, if you are coding in VS code"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 25.6, "end": 27.3, "text": " then your work will work with Emmet"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 27.3, "end": 29.8, "text": " if you don't know Emmet then you type"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 29.8, "end": 32.9, "text": " the exclamation mark is complete, boilerplate comes in HTML"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 32.9, "end": 35.9, "text": " pretty much any tag comes with the help of Emmet"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 35.9, "end": 37.4, "text": " so why this HTML cheat sheet"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 37.4, "end": 38.9, "text": " I told you some time ago"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 38.9, "end": 41.2, "text": " how to run VS code on the phone"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 41.2, "end": 43.2, "text": " so for those people who code on the phone"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 43.2, "end": 45.8, "text": " this cheat sheet is going to be very useful for them"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 45.8, "end": 50.400000000000006, "text": " and I am not saying that you have to copy and paste from here"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 50.400000000000006, "end": 51.6, "text": " this is not only for that"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 51.6, "end": 53.400000000000006, "text": " by the way, let me tell you that there are copy buttons here"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 53.400000000000006, "end": 54.8, "text": " you can copy and paste"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 54.8, "end": 57.1, "text": " like I copied heading 2 so I can paste here"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 57.2, "end": 58.9, "text": " like that if I copied heading 4"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 58.9, "end": 60.4, "text": " so I can paste it here"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 60.4, "end": 61.2, "text": " and so on"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 61.2, "end": 62.6, "text": " all the tags are here"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 62.6, "end": 65.0, "text": " so this cheat sheet of HTML is not necessary"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 65.0, "end": 66.8, "text": " if you are on the computer then use it"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 66.8, "end": 68.4, "text": " maybe your work will work with Emmet"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 68.4, "end": 69.4, "text": " but there are some cases"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 69.4, "end": 71.2, "text": " in which it will not work, I will tell you now"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 71.2, "end": 73.6, "text": " in total, what I want to say is"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 73.6, "end": 77.0, "text": " that this gives you a brief overview of the cheat sheet"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 77.0, "end": 78.6, "text": " HTML in general"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 78.6, "end": 82.4, "text": " that is, if a person who has never learned HTML"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 82.4, "end": 83.8, "text": " he will only see the cheat sheet"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 83.8, "end": 85.7, "text": " so according to me HTML is very straightforward"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 85.7, "end": 89.2, "text": " and you can see all the tags of HTML in one go"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 89.2, "end": 90.5, "text": " by seeing this cheat sheet"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 90.5, "end": 94.4, "text": " so this gives you a good idea of HTML in general"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 94.4, "end": 98.0, "text": " along with that, if you want random text in English"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 98.0, "end": 99.60000000000001, "text": " then I have given it to you here"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 99.60000000000001, "end": 102.9, "text": " and some characters and symbols that are going to be used the most"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 102.9, "end": 104.4, "text": " I have also given it to you here"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 104.4, "end": 105.80000000000001, "text": " and form etc."}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 105.80000000000001, "end": 109.4, "text": " I have given you the whole snippet"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 109.4, "end": 111.60000000000001, "text": " which has an input tag"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 111.60000000000001, "end": 113.0, "text": " and a select tag"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 113.1, "end": 114.3, "text": " that is given here"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 114.3, "end": 115.8, "text": " which you do not get in Emmet"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 115.8, "end": 118.8, "text": " now if you want the whole structure of the table"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 118.8, "end": 122.1, "text": " you can copy it directly here"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 122.1, "end": 124.1, "text": " because whenever you talk about a table"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 124.1, "end": 126.1, "text": " you have to use the table anytime"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 126.1, "end": 128.1, "text": " so you just don't write this table tag"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 128.1, "end": 129.7, "text": " you need a whole structure"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 129.7, "end": 131.5, "text": " in which your table has a caption"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 131.5, "end": 133.1, "text": " and the table has a body"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 133.1, "end": 133.9, "text": " and the table has data"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 133.9, "end": 137.8, "text": " and all this syntax is written exactly in one place"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 137.8, "end": 140.2, "text": " so that's why I shared this cheat sheet with you"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 140.2, "end": 141.5, "text": " you will get the link in the description"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 141.5, "end": 142.5, "text": " download it"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 142.5, "end": 145.0, "text": " you can also print it by pressing the ctrl key"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 145.0, "end": 148.0, "text": " and along with that you can stick it on your wall"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 148.0, "end": 149.5, "text": " I am not kidding here"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 149.5, "end": 150.3, "text": " it will be useful for you"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 150.3, "end": 151.8, "text": " if you stick it on the wall"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 151.8, "end": 152.8, "text": " two comments have come"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 152.8, "end": 153.8, "text": " I will give a shoutout to both"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 153.8, "end": 156.0, "text": " Mukhaji.ad and L Gopal"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 156.0, "end": 160.3, "text": " and I have recently put this post"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 160.3, "end": 161.5, "text": " and these two comments have also come"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 161.5, "end": 163.8, "text": " I hope this cheat sheet is going to be very helpful for you"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 163.8, "end": 166.7, "text": " now here I have planned"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 166.7, "end": 168.8, "text": " CSS cheat sheet, JavaScript cheat sheet"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 168.8, "end": 170.5, "text": " and Python, C, C++"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 170.5, "end": 172.1, "text": " all the cheat sheets of programming languages"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 172.1, "end": 173.5, "text": " even the cheat sheet of frameworks"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 173.5, "end": 174.6, "text": " like Flask, Django"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 174.6, "end": 176.29999999999998, "text": " I will give you all these things in this way"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 176.29999999999998, "end": 178.6, "text": " and according to me it will be very helpful for you"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 178.6, "end": 181.1, "text": " maybe HTML will make you emit"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 181.1, "end": 182.6, "text": " but if we talk about Python"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 182.6, "end": 183.6, "text": " then maybe in Python"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 183.6, "end": 185.4, "text": " it will be difficult to bring you all in one place"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 185.4, "end": 187.9, "text": " in a straightforward way"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 187.9, "end": 189.1, "text": " that's why this cheat sheet is going to be very useful for you"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 189.1, "end": 190.4, "text": " Python is going to be very useful"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 190.4, "end": 192.7, "text": " in the same way C, C++ is also going to be very useful"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 192.7, "end": 194.9, "text": " so if you have any feedback for me"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 194.9, "end": 196.0, "text": " then definitely give me in the comments"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 196.0, "end": 197.4, "text": " if I have missed any tag"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 197.4, "end": 199.9, "text": " or you think there is something in any language"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 199.9, "end": 201.1, "text": " which can be useful for you"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 201.1, "end": 202.9, "text": " do tell me in the comment section"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 202.9, "end": 204.9, "text": " so that's all for this video guys"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 204.9, "end": 206.4, "text": " I hope you liked this cheat sheet"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 206.4, "end": 208.2, "text": " thank you so much guys for watching this video"}, {"number": "01", "title": "HTML CheatSheet for Beginners ", "start": 208.2, "end": 210.9, "text": " and I will see you next time"}], "text": " I am using this HTML cheat sheet for a long time and I am giving you this cheat sheet because because I genuinely think this cheat sheet can be very useful for you what is there in this cheat sheet and why is it different from Emmet I will tell you everything quickly so see this cheat sheet I am using it for a long time most of the work comes on today's date so it comes for those people who are coding on the phone by the way, if you are coding in VS code then your work will work with Emmet if you don't know Emmet then you type the exclamation mark is complete, boilerplate comes in HTML pretty much any tag comes with the help of Emmet so why this HTML cheat sheet I told you some time ago how to run VS code on the phone so for those people who code on the phone this cheat sheet is going to be very useful for them and I am not saying that you have to copy and paste from here this is not only for that by the way, let me tell you that there are copy buttons here you can copy and paste like I copied heading 2 so I can paste here like that if I copied heading 4 so I can paste it here and so on all the tags are here so this cheat sheet of HTML is not necessary if you are on the computer then use it maybe your work will work with Emmet but there are some cases in which it will not work, I will tell you now in total, what I want to say is that this gives you a brief overview of the cheat sheet HTML in general that is, if a person who has never learned HTML he will only see the cheat sheet so according to me HTML is very straightforward and you can see all the tags of HTML in one go by seeing this cheat sheet so this gives you a good idea of HTML in general along with that, if you want random text in English then I have given it to you here and some characters and symbols that are going to be used the most I have also given it to you here and form etc. I have given you the whole snippet which has an input tag and a select tag that is given here which you do not get in Emmet now if you want the whole structure of the table you can copy it directly here because whenever you talk about a table you have to use the table anytime so you just don't write this table tag you need a whole structure in which your table has a caption and the table has a body and the table has data and all this syntax is written exactly in one place so that's why I shared this cheat sheet with you you will get the link in the description download it you can also print it by pressing the ctrl key and along with that you can stick it on your wall I am not kidding here it will be useful for you if you stick it on the wall two comments have come I will give a shoutout to both Mukhaji.ad and L Gopal and I have recently put this post and these two comments have also come I hope this cheat sheet is going to be very helpful for you now here I have planned CSS cheat sheet, JavaScript cheat sheet and Python, C, C++ all the cheat sheets of programming languages even the cheat sheet of frameworks like Flask, Django I will give you all these things in this way and according to me it will be very helpful for you maybe HTML will make you emit but if we talk about Python then maybe in Python it will be difficult to bring you all in one place in a straightforward way that's why this cheat sheet is going to be very useful for you Python is going to be very useful in the same way C, C++ is also going to be very useful so if you have any feedback for me then definitely give me in the comments if I have missed any tag or you think there is something in any language which can be useful for you do tell me in the comment section so that's all for this video guys I hope you liked this cheat sheet thank you so much guys for watching this video and I will see you next time"}
+{
+    "chunks": [
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 0.0,
+            "end": 2.8000000000000003,
+            "text": " I am using this HTML cheat sheet for a long time"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 2.8000000000000003,
+            "end": 4.8,
+            "text": " and I am giving you this cheat sheet because"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 4.8,
+            "end": 6.8,
+            "text": " because I genuinely think"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 6.8,
+            "end": 9.3,
+            "text": " this cheat sheet can be very useful for you"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 9.3,
+            "end": 13.1,
+            "text": " what is there in this cheat sheet and why is it different from Emmet"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 13.1,
+            "end": 14.8,
+            "text": " I will tell you everything quickly"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 14.8,
+            "end": 16.5,
+            "text": " so see this cheat sheet"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 16.5,
+            "end": 18.5,
+            "text": " I am using it for a long time"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 18.5,
+            "end": 20.8,
+            "text": " most of the work comes on today's date"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 20.8,
+            "end": 23.1,
+            "text": " so it comes for those people who are coding on the phone"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 23.1,
+            "end": 25.6,
+            "text": " by the way, if you are coding in VS code"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 25.6,
+            "end": 27.3,
+            "text": " then your work will work with Emmet"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 27.3,
+            "end": 29.8,
+            "text": " if you don't know Emmet then you type"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 29.8,
+            "end": 32.9,
+            "text": " the exclamation mark is complete, boilerplate comes in HTML"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 32.9,
+            "end": 35.9,
+            "text": " pretty much any tag comes with the help of Emmet"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 35.9,
+            "end": 37.4,
+            "text": " so why this HTML cheat sheet"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 37.4,
+            "end": 38.9,
+            "text": " I told you some time ago"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 38.9,
+            "end": 41.2,
+            "text": " how to run VS code on the phone"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 41.2,
+            "end": 43.2,
+            "text": " so for those people who code on the phone"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 43.2,
+            "end": 45.8,
+            "text": " this cheat sheet is going to be very useful for them"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 45.8,
+            "end": 50.400000000000006,
+            "text": " and I am not saying that you have to copy and paste from here"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 50.400000000000006,
+            "end": 51.6,
+            "text": " this is not only for that"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 51.6,
+            "end": 53.400000000000006,  
+            "text": " by the way, let me tell you that there are copy buttons here"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 53.400000000000006,
+            "end": 54.8,
+            "text": " you can copy and paste"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 54.8,
+            "end": 57.1,
+            "text": " like I copied heading 2 so I can paste here"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 57.2,
+            "end": 58.9,
+            "text": " like that if I copied heading 4"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 58.9,
+            "end": 60.4,
+            "text": " so I can paste it here"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 60.4,
+            "end": 61.2,
+            "text": " and so on"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 61.2,
+            "end": 62.6,
+            "text": " all the tags are here"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 62.6,
+            "end": 65.0,
+            "text": " so this cheat sheet of HTML is not necessary"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 65.0,
+            "end": 66.8,
+            "text": " if you are on the computer then use it"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 66.8,
+            "end": 68.4,
+            "text": " maybe your work will work with Emmet"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 68.4,
+            "end": 69.4,
+            "text": " but there are some cases"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 69.4,
+            "end": 71.2,
+            "text": " in which it will not work, I will tell you now"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 71.2,
+            "end": 73.6,
+            "text": " in total, what I want to say is"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 73.6,
+            "end": 77.0,
+            "text": " that this gives you a brief overview of the cheat sheet"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 77.0,
+            "end": 78.6,
+            "text": " HTML in general"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 78.6,
+            "end": 82.4,
+            "text": " that is, if a person who has never learned HTML"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 82.4,
+            "end": 83.8,
+            "text": " he will only see the cheat sheet"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 83.8,
+            "end": 85.7,
+            "text": " so according to me HTML is very straightforward"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 85.7,
+            "end": 89.2,
+            "text": " and you can see all the tags of HTML in one go"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 89.2,
+            "end": 90.5,
+            "text": " by seeing this cheat sheet"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 90.5,
+            "end": 94.4,
+            "text": " so this gives you a good idea of HTML in general"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 94.4,
+            "end": 98.0,
+            "text": " along with that, if you want random text in English"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 98.0,
+            "end": 99.60000000000001,
+            "text": " then I have given it to you here"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 99.60000000000001,
+            "end": 102.9,
+            "text": " and some characters and symbols that are going to be used the most"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 102.9,
+            "end": 104.4,
+            "text": " I have also given it to you here"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 104.4,
+            "end": 105.80000000000001,
+            "text": " and form etc."
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 105.80000000000001,
+            "end": 109.4,
+            "text": " I have given you the whole snippet"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 109.4,
+            "end": 111.60000000000001,
+            "text": " which has an input tag"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 111.60000000000001,
+            "end": 113.0,
+            "text": " and a select tag"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 113.1,
+            "end": 114.3,
+            "text": " that is given here"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 114.3,
+            "end": 115.8,
+            "text": " which you do not get in Emmet"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 115.8,
+            "end": 118.8,
+            "text": " now if you want the whole structure of the table"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 118.8,
+            "end": 122.1,
+            "text": " you can copy it directly here"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 122.1,
+            "end": 124.1,
+            "text": " because whenever you talk about a table"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 124.1,
+            "end": 126.1,
+            "text": " you have to use the table anytime"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 126.1,
+            "end": 128.1,
+            "text": " so you just don't write this table tag"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 128.1,
+            "end": 129.7,
+            "text": " you need a whole structure"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 129.7,
+            "end": 131.5,
+            "text": " in which your table has a caption"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 131.5,
+            "end": 133.1,
+            "text": " and the table has a body"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 133.1,
+            "end": 133.9,
+            "text": " and the table has data"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 133.9,
+            "end": 137.8,
+            "text": " and all this syntax is written exactly in one place"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 137.8,
+            "end": 140.2,
+            "text": " so that's why I shared this cheat sheet with you"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 140.2,
+            "end": 141.5,
+            "text": " you will get the link in the description"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 141.5,
+            "end": 142.5,
+            "text": " download it"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 142.5,
+            "end": 145.0,
+            "text": " you can also print it by pressing the ctrl key"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 145.0,
+            "end": 148.0,
+            "text": " and along with that you can stick it on your wall"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 148.0,
+            "end": 149.5,
+            "text": " I am not kidding here"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 149.5,
+            "end": 150.3,
+            "text": " it will be useful for you"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 150.3,
+            "end": 151.8,
+            "text": " if you stick it on the wall"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 151.8,
+            "end": 152.8,
+            "text": " two comments have come"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 152.8,
+            "end": 153.8,
+            "text": " I will give a shoutout to both"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 153.8,
+            "end": 156.0,
+            "text": " Mukhaji.ad and L Gopal"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 156.0,
+            "end": 160.3,
+            "text": " and I have recently put this post"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 160.3,
+            "end": 161.5,
+            "text": " and these two comments have also come"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 161.5,
+            "end": 163.8,
+            "text": " I hope this cheat sheet is going to be very helpful for you"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 163.8,
+            "end": 166.7,
+            "text": " now here I have planned"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 166.7,
+            "end": 168.8,
+            "text": " CSS cheat sheet, JavaScript cheat sheet"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 168.8,
+            "end": 170.5,
+            "text": " and Python, C, C++"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 170.5,
+            "end": 172.1,
+            "text": " all the cheat sheets of programming languages"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 172.1,
+            "end": 173.5,
+            "text": " even the cheat sheet of frameworks"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 173.5,
+            "end": 174.6,
+            "text": " like Flask, Django"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 174.6,
+            "end": 176.29999999999998,
+            "text": " I will give you all these things in this way"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 176.29999999999998,
+            "end": 178.6,
+            "text": " and according to me it will be very helpful for you"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 178.6,
+            "end": 181.1,
+            "text": " maybe HTML will make you emit"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 181.1,
+            "end": 182.6,
+            "text": " but if we talk about Python"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 182.6,
+            "end": 183.6,
+            "text": " then maybe in Python"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 183.6,
+            "end": 185.4,
+            "text": " it will be difficult to bring you all in one place"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 185.4,
+            "end": 187.9,
+            "text": " in a straightforward way"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 187.9,
+            "end": 189.1,
+            "text": " that's why this cheat sheet is going to be very useful for you"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 189.1,
+            "end": 190.4,
+            "text": " Python is going to be very useful"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 190.4,
+            "end": 192.7,
+            "text": " in the same way C, C++ is also going to be very useful"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 192.7,
+            "end": 194.9,
+            "text": " so if you have any feedback for me"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 194.9,
+            "end": 196.0,
+            "text": " then definitely give me in the comments"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 196.0,
+            "end": 197.4,
+            "text": " if I have missed any tag"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 197.4,
+            "end": 199.9,
+            "text": " or you think there is something in any language"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 199.9,
+            "end": 201.1,
+            "text": " which can be useful for you"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 201.1,
+            "end": 202.9,
+            "text": " do tell me in the comment section"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 202.9,
+            "end": 204.9,
+            "text": " so that's all for this video guys"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 204.9,
+            "end": 206.4,
+            "text": " I hope you liked this cheat sheet"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 206.4,
+            "end": 208.2,
+            "text": " thank you so much guys for watching this video"
+        },
+        {
+            "number": "01",
+            "title": "HTML CheatSheet for Beginners ",
+            "start": 208.2,
+            "end": 210.9,
+            "text": " and I will see you next time"
+        }
+    ],
+    "text": " I am using this HTML cheat sheet for a long time and I am giving you this cheat sheet because because I genuinely think this cheat sheet can be very useful for you what is there in this cheat sheet and why is it different from Emmet I will tell you everything quickly so see this cheat sheet I am using it for a long time most of the work comes on today's date so it comes for those people who are coding on the phone by the way, if you are coding in VS code then your work will work with Emmet if you don't know Emmet then you type the exclamation mark is complete, boilerplate comes in HTML pretty much any tag comes with the help of Emmet so why this HTML cheat sheet I told you some time ago how to run VS code on the phone so for those people who code on the phone this cheat sheet is going to be very useful for them and I am not saying that you have to copy and paste from here this is not only for that by the way, let me tell you that there are copy buttons here you can copy and paste like I copied heading 2 so I can paste here like that if I copied heading 4 so I can paste it here and so on all the tags are here so this cheat sheet of HTML is not necessary if you are on the computer then use it maybe your work will work with Emmet but there are some cases in which it will not work, I will tell you now in total, what I want to say is that this gives you a brief overview of the cheat sheet HTML in general that is, if a person who has never learned HTML he will only see the cheat sheet so according to me HTML is very straightforward and you can see all the tags of HTML in one go by seeing this cheat sheet so this gives you a good idea of HTML in general along with that, if you want random text in English then I have given it to you here and some characters and symbols that are going to be used the most I have also given it to you here and form etc. I have given you the whole snippet which has an input tag and a select tag that is given here which you do not get in Emmet now if you want the whole structure of the table you can copy it directly here because whenever you talk about a table you have to use the table anytime so you just don't write this table tag you need a whole structure in which your table has a caption and the table has a body and the table has data and all this syntax is written exactly in one place so that's why I shared this cheat sheet with you you will get the link in the description download it you can also print it by pressing the ctrl key and along with that you can stick it on your wall I am not kidding here it will be useful for you if you stick it on the wall two comments have come I will give a shoutout to both Mukhaji.ad and L Gopal and I have recently put this post and these two comments have also come I hope this cheat sheet is going to be very helpful for you now here I have planned CSS cheat sheet, JavaScript cheat sheet and Python, C, C++ all the cheat sheets of programming languages even the cheat sheet of frameworks like Flask, Django I will give you all these things in this way and according to me it will be very helpful for you maybe HTML will make you emit but if we talk about Python then maybe in Python it will be difficult to bring you all in one place in a straightforward way that's why this cheat sheet is going to be very useful for you Python is going to be very useful in the same way C, C++ is also going to be very useful so if you have any feedback for me then definitely give me in the comments if I have missed any tag or you think there is something in any language which can be useful for you do tell me in the comment section so that's all for this video guys I hope you liked this cheat sheet thank you so much guys for watching this video and I will see you next time"
+}
