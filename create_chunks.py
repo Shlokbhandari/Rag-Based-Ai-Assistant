@@ -4,7 +4,7 @@ import os
 
 model = whisper.load_model("large-v2")
 
-audios = os.listdir("audios")
+audios = os.listdir("Audios")
 
 for audio in audios: 
     if("_" in audio):
@@ -25,4 +25,3 @@ for audio in audios:
 
         with open(f"jsons/{audio}.json", "w") as f:
             json.dump(chunks_with_metadata,f)
-    break
