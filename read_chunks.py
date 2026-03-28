@@ -2,6 +2,8 @@ import requests
 import os
 import json
 import pandas as pd
+import numpy as np
+from sklearn.metrics.pairwise import cosine_similarity
 
 def create_embedding(text_list):
     r =requests.post("http://localhost:11434/api/embed", json={
@@ -25,9 +27,20 @@ for json_file in jsons:
         chunk["embedding"] = embeddings[i]
         chunk_id += 1
         my_dict.append(chunk)
+    break
 
-
-# print(my_dict)
 
 df = pd.DataFrame.from_records(my_dict)
-print(df)
+
+input_query = input("Ask a question: ")
+question_embedding = create_embedding([input_query])[0]
+
+# Find similarities between question_embedding and input_query
+# print(np.vstack(df["embedding"].values)) #Converting Embeggings values into 2d numpy array
+# print(np.vstack(df["embedding"]).shape) #Cosine similarity funtion onyl takes 2d array as input 
+similarities = cosine_similarity(np.vstack(df["embedding"]), [question_embedding]).flatten()
+
+top_results = 4
+max_indx = similarities.argsort()[::-1][0:top_results]
+new_df = df.loc[max_indx]
+print(new_df[["title", "number", "text"]])
