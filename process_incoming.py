@@ -43,6 +43,3 @@ I am teaching web development using Sigma Web Development couse. Here are vioe c
 {input_query}
 User aked this question related to video chunks, you have to answer where and how much content is taught in which video (in which video and what timstamp) and guide the user to go to that particular video. If user asks unrelated questions, tell him that you can only answer questions related to the course.
 '''
-
-# for index, item in new_df.iterrows():
-#     print(index, item["title"], item["number"], item["text"], item["start"], item["end"])
