@@ -17,10 +17,13 @@ def create_embedding(text_list):
 
 def inference(prompt):
     r =requests.post("http://localhost:11434/api/generate", json={
-        "model": "deepseek-r1", 
+        "model": "llama3.2", 
         "prompt": prompt,
         "stream": False
     })
+
+    response =r.json()
+    return response
 
 df = joblib.load("embeddings.joblib")
 input_query = input("Ask a question: ")
@@ -36,10 +39,13 @@ max_indx = similarities.argsort()[::-1][0:top_results]
 new_df = df.loc[max_indx]
 
 prompt = f'''
-I am teaching web development using Sigma Web Development couse. Here are vioe chunks with video title, video number, start seconds of the chunk. end seconds of the chunk , and the text at that time:
+I am teaching web development using Sigma Web Development couse. Here are video chunks with video title, video number, start seconds of the chunk. end seconds of the chunk , and the text at that time:
 
-{new_df[["title", "number", "start", "end", "text"]].to_json()}
+{new_df[["title", "number", "start", "end", "text"]].to_json(orient = "records")}
 ------------------------------------------------
 {input_query}
-User aked this question related to video chunks, you have to answer where and how much content is taught in which video (in which video and what timstamp) and guide the user to go to that particular video. If user asks unrelated questions, tell him that you can only answer questions related to the course.
+User aked this question related to video chunks, you have to answer in a human way (dont mention the above format, ts just for you) where and how much content is taught in which video (in which video and what timstamp) and guide the user to go to that particular video. If user asks unrelated questions, tell him that you can only answer questions related to the course.
 '''
+
+response = inference(prompt)["response"]
+print(response)
