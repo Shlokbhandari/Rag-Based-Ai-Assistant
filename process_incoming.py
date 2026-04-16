@@ -34,7 +34,7 @@ question_embedding = create_embedding([input_query])[0]
 # print(np.vstack(df["embedding"]).shape) #Cosine similarity funtion onyl takes 2d array as input 
 similarities = cosine_similarity(np.vstack(df["embedding"]), [question_embedding]).flatten()
 
-top_results = 15
+top_results = 5
 max_indx = similarities.argsort()[::-1][0:top_results]
 new_df = df.loc[max_indx]
 
@@ -49,3 +49,5 @@ User aked this question related to video chunks, you have to answer in a human w
 
 response = inference(prompt)["response"]
 print(response)
+with open ("response.txt", "w") as f:
+    f.write(response)
