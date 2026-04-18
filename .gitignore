@@ -1,3 +1,6 @@
 Videos/
 Audios/
 .DS_Store
+groq_api.py
+response.txt
+.env
