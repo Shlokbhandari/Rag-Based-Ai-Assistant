@@ -3,19 +3,21 @@ import json
 import os
 import math
 import shutil
+from tqdm import tqdm
 
 model = WhisperModel("base", compute_type="int8")
 
-audios = os.listdir("Audios")
+os.makedirs("jsons", exist_ok=True)
+audios = [f for f in os.listdir("Audios") if f.endswith(".mp3")]
 
-for audio in audios: 
+for audio in tqdm(audios): 
     if "_" in audio:
         number = audio.split("_")[0]
         title = audio.split("_")[1][:-4]
         print(number, title)
 
         segments, info = model.transcribe(
-            f"Audios/{audio}",
+            os.path.join("Audios", audio),
             language="hi",
             task="translate"
         )
@@ -33,10 +35,15 @@ for audio in audios:
         full_text = " ".join([seg.text for seg in segments])
         chunks_with_metadata = {"chunks": chunks, "text": full_text}
 
-        with open(f"jsons/{audio}.json", "w") as f:
+        name = os.path.splitext(audio)[0]
+        with open(os.path.join("jsons", f"{name}.json"), "w") as f:
             json.dump(chunks_with_metadata, f)
 
 n = 5
+
+temp_dir = "temp_jsons"
+shutil.rmtree(temp_dir, ignore_errors=True)
+os.makedirs(temp_dir, exist_ok=True)
 
 jsons = os.listdir("jsons")
 
@@ -63,10 +70,9 @@ for filename in jsons:
             })
 
         #Save the file without double .json name
-        os.makedirs("newjsons", exist_ok=True)
-        with open (os.path.join("newjsons", filename), "w", encoding="utf-8") as json_file:
+        with open(os.path.join(temp_dir, filename), "w", encoding="utf-8") as json_file:
             json.dump({"chunks": new_chunks, "text": data["text"]}, json_file, indent=4)
             
-shutil.rmtree("jsons")
-
+shutil.rmtree("jsons", ignore_errors=True)
+os.rename(temp_dir, "jsons")
 print("✅ Processing complete.")
