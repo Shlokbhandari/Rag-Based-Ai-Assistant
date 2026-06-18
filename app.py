@@ -8,14 +8,30 @@ from sklearn.metrics.pairwise import cosine_similarity
 from process_incoming import create_embedding, inference
 import json
 import re
+import threading
+import time
 
-# --- 1. Page Configuration & Custom CSS ---
+# --- 1. Page Configuration ---
 st.set_page_config(
     page_title="VidQuery AI - Video RAG Assistant",
     page_icon="🎧",
     layout="wide",
     initial_sidebar_state="expanded"
 )
+
+@st.cache_resource
+def get_processing_state():
+    return {
+        "is_processing": False,
+        "status": "",
+        "logs": "",
+        "error": "",
+        "completed": False
+    }
+
+processing_state = get_processing_state()
+
+# Custom premium styling
 
 # Custom premium styling
 st.markdown("""
@@ -187,36 +203,79 @@ with st.sidebar:
     
     # 3.2 Pipeline Automation trigger
     st.markdown("### ⚙️ Pipeline Control")
-    if st.button("🚀 Process & Index All Videos", use_container_width=True):
+    
+    if st.button("🚀 Process & Index All Videos", use_container_width=True, disabled=processing_state["is_processing"]):
         if not os.listdir("videos"):
             st.sidebar.error("No videos found in the 'videos/' folder. Please upload a video first!")
         else:
-            status_box = st.empty()
-            log_expander = st.expander("Show processing details", expanded=True)
+            processing_state["completed"] = False
+            processing_state["error"] = ""
+            processing_state["logs"] = ""
             
+            def process_pipeline_worker():
+                processing_state["is_processing"] = True
+                try:
+                    processing_state["status"] = "Step 1/3: Converting videos to MP3 audio..."
+                    r1 = subprocess.run(["python3", "videos_to_mp3s.py"], capture_output=True, text=True, check=True)
+                    processing_state["logs"] += r1.stdout + "\n"
+                    
+                    processing_state["status"] = "Step 2/3: Transcribing audio files (Faster-Whisper)..."
+                    r2 = subprocess.run(["python3", "mp3_to_json.py"], capture_output=True, text=True, check=True)
+                    processing_state["logs"] += r2.stdout + "\n"
+                    
+                    processing_state["status"] = "Step 3/3: Generating embeddings & building database..."
+                    r3 = subprocess.run(["python3", "preprocess_jsons.py"], capture_output=True, text=True, check=True)
+                    processing_state["logs"] += r3.stdout + "\n"
+                    
+                    processing_state["status"] = "✅ Indexing successfully completed!"
+                    processing_state["completed"] = True
+                except subprocess.CalledProcessError as e:
+                    processing_state["error"] = f"Pipeline failed during {processing_state['status']} with exit code {e.returncode}"
+                except Exception as e:
+                    processing_state["error"] = f"Pipeline failed: {e}"
+                finally:
+                    processing_state["is_processing"] = False
+
+            # Start background thread
+            thread = threading.Thread(target=process_pipeline_worker)
+            thread.start()
+            st.rerun()
+
+    # Display real-time UI for processing
+    if processing_state["is_processing"] or processing_state["error"] or processing_state["completed"]:
+        st.markdown("#### Processing Status")
+        status_box = st.empty()
+        
+        if processing_state["error"]:
+            status_box.error(processing_state["error"])
+            if st.button("Dismiss Error"):
+                processing_state["error"] = ""
+                st.rerun()
+        elif processing_state["completed"]:
+            status_box.success(processing_state["status"])
+            with st.expander("Show processing details", expanded=False):
+                st.code(processing_state["logs"])
+            
+            # Reload dataframe safely in main thread after completion
             try:
-                # Step 1: Videos to MP3s
-                status_box.info("Step 1/3: Converting videos to MP3 audio...")
-                result1 = subprocess.run(["python3", "videos_to_mp3s.py"], capture_output=True, text=True, check=True)
-                log_expander.code(result1.stdout)
-                
-                # Step 2: MP3s to JSON transcripts
-                status_box.info("Step 2/3: Transcribing audio files (Faster-Whisper)...")
-                result2 = subprocess.run(["python3", "mp3_to_json.py"], capture_output=True, text=True, check=True)
-                log_expander.code(result2.stdout)
-                
-                # Step 3: Preprocess JSONs to embeddings.joblib
-                status_box.info("Step 3/3: Generating embeddings & building database...")
-                result3 = subprocess.run(["python3", "preprocess_jsons.py"], capture_output=True, text=True, check=True)
-                log_expander.code(result3.stdout)
-                
-                # Reload dataframe
-                st.session_state.df = joblib.load("embeddings.joblib")
-                st.session_state.df_mtime = os.path.getmtime("embeddings.joblib")
-                status_box.success("✅ Indexing successfully completed!")
-            except Exception as e:
-                status_box.error(f"Pipeline failed: {e}")
-                
+                if os.path.exists("embeddings.joblib"):
+                    st.session_state.df = joblib.load("embeddings.joblib")
+                    st.session_state.df_mtime = os.path.getmtime("embeddings.joblib")
+            except Exception as load_e:
+                print(f"Error reloading DB after process: {load_e}")
+
+            if st.button("Dismiss Status"):
+                processing_state["completed"] = False
+                processing_state["logs"] = ""
+                st.rerun()
+        else:
+            status_box.info(processing_state["status"] + " ⏳")
+            with st.expander("Live Logs", expanded=True):
+                st.code(processing_state["logs"] or "Initializing...")
+            # Auto-refresh loop while processing
+            time.sleep(1)
+            st.rerun()
+
     st.write("---")
     
     # 3.3 Media Player in Sidebar
