@@ -114,6 +114,12 @@ os.makedirs("jsons", exist_ok=True)
 # --- 2. Session State Initialization ---
 if "messages" not in st.session_state:
     st.session_state.messages = []
+if "seek_time" not in st.session_state:
+    st.session_state.seek_time = 0
+if "current_video" not in st.session_state:
+    st.session_state.current_video = None
+if "force_video" not in st.session_state:
+    st.session_state.force_video = None
 
 def get_db_mtime():
     if os.path.exists("embeddings.joblib"):
@@ -304,9 +310,24 @@ with st.sidebar:
         return f"[{tutorial_number}] {clean_name}"
 
     if video_files:
-        selected_video = st.selectbox("Select a video to play", video_files, format_func=format_video_name)
+        target_idx = 0
+        if "current_video" in st.session_state and st.session_state.current_video in video_files:
+            target_idx = video_files.index(st.session_state.current_video)
+            
+        if st.session_state.get("force_video") and st.session_state.force_video in video_files:
+            target_idx = video_files.index(st.session_state.force_video)
+            
+        selected_video = st.selectbox("Select a video to play", video_files, format_func=format_video_name, index=target_idx)
+        
         if selected_video:
-            st.video(os.path.join("videos", selected_video))
+            if st.session_state.get("force_video"):
+                st.session_state.force_video = None
+                st.session_state.current_video = selected_video
+            elif "current_video" not in st.session_state or st.session_state.current_video != selected_video:
+                st.session_state.seek_time = 0
+                st.session_state.current_video = selected_video
+                
+            st.video(os.path.join("videos", selected_video), start_time=st.session_state.seek_time)
             
             with st.expander("⚠️ Danger Zone"):
                 st.warning(f"Are you sure you want to delete **{selected_video}**? This will permanently remove the video, audio, transcripts, and database embeddings.")
@@ -323,9 +344,36 @@ st.markdown('<div class="title-text">🎧 VidQuery AI</div>', unsafe_allow_html=
 st.markdown('<div class="subtitle-text">Interactive RAG chatbot powered by Faster-Whisper, Scikit-Learn, and Groq LLM</div>', unsafe_allow_html=True)
 
 # Display chat history
-for message in st.session_state.messages:
+for msg_idx, message in enumerate(st.session_state.messages):
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
+        
+        # Add interactive timestamp buttons for AI responses
+        if message["role"] == "assistant":
+            references = re.findall(r'\[Video #(\d+)\s*@\s*([0-5]?\d:[0-5]\d)\]', message["content"])
+            unique_refs = sorted(list(set(references)))
+            if unique_refs:
+                st.markdown("<br>", unsafe_allow_html=True)
+                cols = st.columns(min(len(unique_refs), 4))
+                for i, (vid_num, ts) in enumerate(unique_refs[:4]):
+                    with cols[i]:
+                        if st.button(f"▶ V{vid_num} | {ts}", key=f"ts_{msg_idx}_{vid_num}_{ts}"):
+                            parts = ts.split(":")
+                            st.session_state.seek_time = int(parts[0]) * 60 + int(parts[1])
+                            
+                            all_videos = [f for f in os.listdir("videos") if f.endswith((".mp4", ".mov", ".avi", ".mkv"))]
+                            for v_file in all_videos:
+                                num_match = re.search(r'#(\d+)', v_file)
+                                v_num = num_match.group(1) if num_match else None
+                                if not v_num:
+                                    starts_with_num = re.match(r'^(\d+)[_-]', v_file)
+                                    v_num = starts_with_num.group(1) if starts_with_num else None
+                                    
+                                if str(v_num) == str(vid_num):
+                                    st.session_state.force_video = v_file
+                                    break
+                                    
+                            st.rerun()
 
 # User prompt input
 if query := st.chat_input("Ask a question about the video content..."):
@@ -397,7 +445,8 @@ User Question:
 
 Instructions:
 - Answer clearly and naturally (like a teacher explaining).
-- Mention relevant video number(s) and timestamps.
+- When referencing a video, you MUST use this exact format: [Video #X @ MM:SS]
+  Example: "This is explained in [Video #15 @ 03:35]."
 - Use 2–4 most relevant timestamps (avoid too many).
 - Keep explanation helpful and easy to understand.
 
@@ -418,6 +467,7 @@ Give a clean, human-like answer.
                     
                     # Store response in chat history
                     st.session_state.messages.append({"role": "assistant", "content": response})
+                    st.rerun()
                     
                 except Exception as e:
                     err_msg = f"An error occurred while generating the answer: {e}"
