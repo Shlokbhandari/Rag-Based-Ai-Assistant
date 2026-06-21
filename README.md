@@ -15,6 +15,7 @@ VidQuery AI is an end-to-end Retrieval-Augmented Generation (RAG) system that co
 - ⏱️ Provides video number + accurate timestamps
 - 🖥️ **Streamlit Web UI**: Premium dark mode dashboard with drag-and-drop file uploader, progress spinner, interactive chat interface, and sidebar video player.
 - 🗑️ **Media Management**: Easily delete processed videos along with their audio, transcripts, and database embeddings directly from the UI.
+- ⚡ **Asynchronous Processing**: Non-blocking background worker allows the UI to stay fully responsive with real-time progress updates and logs while videos are being indexed.
 
 ---
 
