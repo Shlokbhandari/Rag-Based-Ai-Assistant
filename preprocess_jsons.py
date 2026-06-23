@@ -27,7 +27,7 @@ if os.path.exists("embeddings.joblib"):
         if "number" in existing_df.columns and "title" in existing_df.columns:
             # Create a set of (number, title) to quickly check existence
             processed_videos = set(zip(existing_df["number"].astype(str), existing_df["title"]))
-            # Start new chunk IDs after the existing ones
+            # Start new chunk IDs after the existing 1's
             if len(existing_df) > 0:
                 chunk_id = int(existing_df["chunk_id"].max()) + 1
     except Exception as e:
